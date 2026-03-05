@@ -33,7 +33,7 @@
     color = colors.at(it - 1).opacify(20%)
     content = text(30pt, fill: white, weight: "bold", str(it))
   }
- G box(
+ box(
     width: 1in,
     height: 1in,
     stroke: 0.1pt,
@@ -88,5 +88,6 @@
 #show: extract-scores;
 
 
-454224555123555143
+
+111111233442233412554636aosoesntenst444
 
